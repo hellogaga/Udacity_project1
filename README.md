@@ -27,7 +27,7 @@ This project contains the following files:
 - Pics_MediumArticle: The pictures that are used in the medium article. 
 
 ## Results
-The main results of the project is publish in Medium. The link to the article can be found [here]().
+The main results of the project is publish in Medium. The link to the article can be found [here](https://medium.com/@hellogaga/what-survey-data-tells-about-being-a-female-developer-9a6b81db1e8e?source=friends_link&sk=4b6477533cdd7e0e22f1921dc6876e2a).
 
 ## Licensing, Authors, Acknowledgements
 The code released subjects to the MIT license. The author appreciate the data provided by the [Stack Overflow](https://stackoverflow.com/). Part of the code is built on a tutorial of making a heat map, which is published by [Matplotlib](https://matplotlib.org/3.1.1/gallery/images_contours_and_fields/image_annotated_heatmap.html).
