@@ -16,6 +16,9 @@ The ipython notebook is based on the following package. The project can be compa
 - notebook: 6.1.1 
 <br /> 
 
+**!! Important!!<br />**
+Due to that Github has file limit of 50 MB. The files of 2015-2020 responses are not uploaded to the folder Summary_Data. Please download these data from Stack Overflow and put them in the folder.  
+
 ## Project Motivation
 This project is motived by the Udacity Data Science Nanodegree project. As the first project work, I am requested to analyze dataset using the knowledge learned. I found it interesting to get to know what is like being a female programmer. Can the data tell us some insights that we still do not know. 
 
